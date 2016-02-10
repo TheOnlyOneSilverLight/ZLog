@@ -1,1 +1,1 @@
-copyright (c) hero_moments
+© 2016 hero_moments All rights reserved.
