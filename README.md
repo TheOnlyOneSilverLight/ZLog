@@ -6,7 +6,8 @@ Something something zombies...
 
 + **Hauptdarsteller:** Paul
 + **Nebendarsteller:** Vera, ?
-+ **heißer Lesbenzombie:** Nicole
++ **heißer Zombie:** Nicole
++ **sonstige Zombies:** Thomas, Joel, Lisa, Sophia?, David,...
 
 + **Regie:** Thomas
 + **Drehbuch:** David, Joel
