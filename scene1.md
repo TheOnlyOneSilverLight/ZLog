@@ -30,3 +30,5 @@ Paul: Also, Vera und ich filmen auf der Strecke heute jeweils mit einer GoPro au
 Und Thomas filmt uns, wenn wir quatschen.
 
 Vera: Guckt mal, der Typ da!
+
+Paul: VORSICHT KARL, EIN PRÄINFEKTIÖSER KILLERVIRENWIRT mit Bleichhautsyndrom und Vollzeitapathie voraus!
