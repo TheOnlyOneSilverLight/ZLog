@@ -19,4 +19,14 @@ Karl: ...
 Paul: Karl, sag mal Hi!
 
 *Karl fummelt an seinem Helm rum.*
+
 Karl: Ich glaub mein Helm klemmt.
+
+Thomas: Karl, wir drehen schon!
+
+Karl: Oh..hi, Leute!
+
+Paul: Also, Vera und ich filmen auf der Strecke heute jeweils mit einer GoPro auf dem Helm.
+Und Thomas filmt uns, wenn wir quatschen.
+
+Vera: Guckt mal, der Typ da!
