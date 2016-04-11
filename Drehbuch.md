@@ -1,13 +1,20 @@
 
 Grober Ablauf:
-Vorstellung / Vlog -> Im Wald fahren -> Nicole hat Schwierigkeiten, steigt aus und will Blumen suchen -> \n
-Gestalt am Wegesrand / (Karl) spricht diese an -> Angriff, der Rest (Paul&Vera) fährt panisch weiter ->   \n
-Fahrt durch den Wald / Zombies im Wald -> Sturz -> Hütte finden -> Hütte absuchen, Gespräche,Vlog, ausruhen ->  \n
-Szene von draußen, Zombie (Nicole) nähert sich, klopft an die Türe → Vera lässt sie rein, Nicole ruht sich aus → \n
-Kampf, Panik und Geschrei -> Nicole fällt aus dem Fenster -> Flucht (mit Rädern?) ->   \n
-Sackgasse Steinbruch / Zombies von überall / (Akku geht leer)  \n
+Vorstellung / Vlog -> Im Wald fahren -> Nicole hat Schwierigkeiten, steigt aus und will Blumen suchen -> 
 
-Charaktere:  \n
+Gestalt am Wegesrand / (Karl) spricht diese an -> Angriff, der Rest (Paul&Vera) fährt panisch weiter ->  
+
+Fahrt durch den Wald / Zombies im Wald -> Sturz -> Hütte finden -> Hütte absuchen, Gespräche,Vlog, ausruhen -> 
+
+Szene von draußen, Zombie (Nicole) nähert sich, klopft an die Türe → Vera lässt sie rein, Nicole ruht sich aus →  
+ 
+Kampf, Panik und Geschrei -> Nicole fällt aus dem Fenster -> Flucht (mit Rädern?) ->  
+
+Sackgasse Steinbruch / Zombies von überall / (Akku geht leer) 
+
+
+Charaktere: 
+
 T: Thomas, der trödelig tolerante Tunichtgut aka. Kameramann
 V: die voll verrückt verpeilte Villen-Vera
 K: der knausrig knuspernde Chaoten-Körperklaus Karl
