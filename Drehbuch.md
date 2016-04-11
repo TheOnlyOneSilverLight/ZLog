@@ -15,29 +15,29 @@ Sackgasse Steinbruch / Zombies von überall / (Akku geht leer)
 
 Charaktere: 
 
-T: Thomas, der trödelig tolerante Tunichtgut aka. Kameramann
-V: die voll verrückt verpeilte Villen-Vera
-K: der knausrig knuspernde Chaoten-Körperklaus Karl
-P: der penetrant penetrierende Postpubertätspaul
-N: Nicole (oben benannt als 1. Person) 
+T: Thomas, der trödelig tolerante Tunichtgut aka. Kameramann  
+V: die voll verrückt verpeilte Villen-Vera  
+K: der knausrig knuspernde Chaoten-Körperklaus Karl  
+P: der penetrant penetrierende Postpubertätspaul  
+N: Nicole (oben benannt als 1. Person)  
 
 
-Vorstellung / Vlog:
-T: "So Leute. Wir hatten ja schon angekündigt, endlich mal einen VLog zu machen. 
-Und Paul erklärt euch jetzt mal, was wir heute vorhaben."
+Vorstellung / Vlog:  
+T: "So Leute. Wir hatten ja schon angekündigt, endlich mal einen VLog zu machen.  
+Und Paul erklärt euch jetzt mal, was wir heute vorhaben."  
 P:*in die GoPro* "Auch von mir erstmal ein Hi! Wir möchten euch heute an der Entstehung unseres neuen Videos 
-teilhaben lassen! Hierzu befinden wir uns in Ilmenau bei der IXS World Cup Strecke "Absolute Abfahrt". Mit dabei sind Vera..."
-V: *in dieselbe Kamera* "Hallo!"
-P: "Nicole.."
-N: "Hi!"
-P: "..und Karl!"
-K: *fummelt sich am Helm rum* "Ich glaub, mein Helm klemmt."
-T: "Karl, wir filmen schon!"
-K: *in dieselbe Kamera* "Ja man!" 
-P: "Das Wetter ist ***hoffentlich*** super, also zeigen wir unseren Zuschauern mal, wie so gewöhnlicher Videodreh aus unserer Perspektive aussieht.
-Thomas, läuft die Kamera?"
-T: "Ja klar läuft die!"
-V: "Na dann lasst uns nicht zögern, es wird langsam frisch!" 
+teilhaben lassen! Hierzu befinden wir uns in Ilmenau bei der IXS World Cup Strecke "Absolute Abfahrt". Mit dabei sind Vera..."  
+V: *in dieselbe Kamera* "Hallo!"  
+P: "Nicole.."  
+N: "Hi!"  
+P: "..und Karl!"  
+K: *fummelt sich am Helm rum* "Ich glaub, mein Helm klemmt."  
+T: "Karl, wir filmen schon!"  
+K: *in dieselbe Kamera* "Ja man!"   
+P: "Das Wetter ist ***hoffentlich*** super, also zeigen wir unseren Zuschauern mal, wie so gewöhnlicher Videodreh aus unserer Perspektive aussieht.  
+Thomas, läuft die Kamera?"  
+T: "Ja klar läuft die!"  
+V: "Na dann lasst uns nicht zögern, es wird langsam frisch!"  
 *Aufbruch zum Filmen*
 
 
