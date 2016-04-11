@@ -1,5 +1,5 @@
 
-# h1 Grober Ablauf:
+#  Grober Ablauf:
 Vorstellung / Vlog -> Im Wald fahren -> Nicole hat Schwierigkeiten, steigt aus und will Blumen suchen -> 
 
 Gestalt am Wegesrand / (Karl) spricht diese an -> Angriff, der Rest (Paul&Vera) fährt panisch weiter ->  
@@ -13,7 +13,7 @@ Kampf, Panik und Geschrei -> Nicole fällt aus dem Fenster -> Flucht (mit Räder
 Sackgasse Steinbruch / Zombies von überall / (Akku geht leer) 
 
 
-## h2 Charaktere: 
+##  Charaktere: 
 
 T: Thomas, der trödelig tolerante Tunichtgut aka. Kameramann  
 V: die voll verrückt verpeilte Villen-Vera  
@@ -22,7 +22,7 @@ P: der penetrant penetrierende Postpubertätspaul
 N: Nicole (oben benannt als 1. Person)  
 
 
-## h2 Vorstellung / Vlog:  
+## Vorstellung / Vlog:  
 T: "So Leute. Wir hatten ja schon angekündigt, endlich mal einen VLog zu machen.  
 Und Paul erklärt euch jetzt mal, was wir heute vorhaben."  
 P:*in die GoPro* "Auch von mir erstmal ein Hi! Wir möchten euch heute an der Entstehung unseres neuen Videos 
@@ -41,11 +41,11 @@ V: "Na dann lasst uns nicht zögern, es wird langsam frisch!"
 *Aufbruch zum Filmen*  
 
 
-## h2 Im Wald fahren:  
+## Im Wald fahren:  
 Action-GoPro-Szenen vom oberen Teil der IXS Strecke; Dialoge nur spärlich
 
 
-## h2 Nicole hat Schwierigkeiten:  
+##  hat Schwierigkeiten:  
 * Nicole bremmst  
 N: "Hey Leute, wartet!"  
 * Rest stoppt etwas vor ihr*  
@@ -60,10 +60,10 @@ N: "Viel spaß noch!"
 *Nicole setzt sich zum erholen auf den Boden, Rest fährt weiter.   
 
 
-## h2 Weitere Szenen Fahrt
+##  Weitere Szenen Fahrt
 
 
-## h2 Person am Wegesrand:  
+##  Person am Wegesrand:  
 *Szenen auf eine Person im Wald (knieend?)  
 *Schnitt auf die Fahrer V, K & P fahren im Wald, Vera fährt voraus, Paul mittig und Karl am Schluss.  
 P: "Kompaniiiiiie HALT!"  
@@ -78,14 +78,14 @@ P: "Scheiße! Fuck! Vera, hau ab!!!"
 *V & P starten die Flucht entlang der Downhillstrecke, lassen Karl zurück*  
 
 
-## h2 Flucht:  
+## Flucht:  
 *Panik bricht aus, Kurzatmigkeit & Orientierungslosigkeit als Begleiterscheinungen der Situation*  
 V: "Paul, wo ist Karl???!"  
 P: "Ich weiß es nicht, der wird es schon schaffen!! Halt nicht an, wir müssen hier weg!"  
 *Weitere Zombies im Hintergrund, kommen näher*  
 
 
-## h2 Sturz:  
+##  Sturz:  
 *Zombie kommt auf den Weg, greift nach Vera. Vera versucht auszuweichen, fällt und schlittert (?) Hang hinab.*  
 V: "Aaah!"  
 P: "Vera!"  
@@ -97,7 +97,7 @@ P: "Da ist was, ich seh da was!"
 *stolpern auf die Hütte zu*  
 
 
-## h2 Hütte:  
+##  Hütte:  
 V & P total ausgepowert, bekommen kaum Luft*  
 P: "Geht es dir gut?"  
 V: "Wie soll es mir gut gehen?!"  
@@ -113,11 +113,11 @@ V: "Ich habe Angst!"
 P: "Musst du nicht, ich passe auf dich auf! Das habe ich Thomas versprochen!"  
 
 
-## h2 Szene draußen, Nicole als Zombie nähert sich  
+## Szene draußen, Nicole als Zombie nähert sich  
 * Nicole kommt näher (paar Nahaufnahmen, ne Rückansicht?) Kamera schaut ins Innere, Paul und Vera sitzen da*  
 *Nicole findet weg hinein (da müssen wir uns noch was überlegen) *  
 
-## h2 Schnitt nach Innen  
+##  Schnitt nach Innen  
 *Paul fummel an der Gopro rum, neben ihm sieht man Vera liegen* VLog:  
 P: *flüstert* "Hey Leute... ich... ich hab echt keine Ahnung, was hier abgeht." *Paul schaut sich um*  
 P: "Also... wir sind nur noch zu zweit und... man, hört sich dass scheiße an, aber das waren Zombies!"  
@@ -141,7 +141,7 @@ N: "bin müde..."
 *Schnitt*  
 
 
-## h2 Aufwachen:  
+## Aufwachen:  
 (((GoPro wieder auf den Kopf oder liegt und nimmt den Kampf vom Boden aus auf?)))  
 *Vera schreit, Paul dreht sich um, Kampf mit Nicole*  
 Paul (oder Vera?) tritt Nicole - sie wird zurückgeschleudert  / eventuell Fall aus dem Fenster  
@@ -150,12 +150,12 @@ P: "Wir müssen hier weg! Los!"
 *Stürzen aus der Hütte*  
 
 
-## h2 Flucht:  
+## Flucht:  
 *Aufsammeln der Einräder vor der Türe (?)*  
 *Fahrt,Vera schreit, paul brüllt sie an* "Los! Schnell! Wir müssen weiter! Dreh dich nicht um!"   
 *weitere Zombies sind im Bild (manche fahren auf Einrädern? Karl)  
 
-## h2 Steinbruch:  
+## Steinbruch:  
 *Sackgasse  
 V: "Hier gehts nicht weiter! Paul, hier gehts nicht weiter!" *panisch*  
 *Paul, dreht sich um, sieht Zombies, die auf sie zukommen (Karl, Nicole, etc.)*  
